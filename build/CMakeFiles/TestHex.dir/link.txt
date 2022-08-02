@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TestHex.dir/main.cpp.o -o TestHex  -Wl,-rpath,/home/blessing/MAVSDKTest/MAVSDK/install/lib ../MAVSDK/install/lib/libmavsdk.so.1.4.0 

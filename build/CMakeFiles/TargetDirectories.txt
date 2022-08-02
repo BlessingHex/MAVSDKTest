@@ -1,0 +1,3 @@
+/home/blessing/MAVSDKTest/build/CMakeFiles/TestHex.dir
+/home/blessing/MAVSDKTest/build/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTest/build/CMakeFiles/rebuild_cache.dir
