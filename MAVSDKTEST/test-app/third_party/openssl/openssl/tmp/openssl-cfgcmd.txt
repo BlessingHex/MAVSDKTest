@@ -1,0 +1,1 @@
+cmd='<SOURCE_DIR>/config;-d;--prefix=/home/blessing/MAVSDKTEST/test-app/third_party/install;no-shared'

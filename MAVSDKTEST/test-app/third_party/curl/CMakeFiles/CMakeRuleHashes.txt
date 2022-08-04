@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+899a797829ca052aab49c666ad7152a8 CMakeFiles/curl
+86a1d246872fc60998988d8b60704df9 CMakeFiles/curl-complete
+becdf83a5bfe495facf3369f8b7df3f0 curl/src/curl-stamp/curl-build
+0f2fd9b12b65ad22959fe130ce734edd curl/src/curl-stamp/curl-configure
+ea3941479e45f1aaf6bc2ad6b26d46a8 curl/src/curl-stamp/curl-download
+c86de5db831ae5d390fecb05367b93ad curl/src/curl-stamp/curl-install
+2a6469bee0efc9e536bc7dc70fbe5cf3 curl/src/curl-stamp/curl-mkdir
+b199497098b0c380bc157656f94f2dd0 curl/src/curl-stamp/curl-patch
+db147db1f5dcabad28da685b9ce11573 curl/src/curl-stamp/curl-update

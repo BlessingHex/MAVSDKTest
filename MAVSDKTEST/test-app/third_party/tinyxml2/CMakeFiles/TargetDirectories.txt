@@ -1,0 +1,3 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/tinyxml2.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/rebuild_cache.dir

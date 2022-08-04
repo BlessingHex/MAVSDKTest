@@ -1,0 +1,1 @@
+cmd='Python3::Interpreter;-m;pymavlink.tools.mavgen;--lang=C;--wire-protocol=2.0;--output=/home/blessing/MAVSDKTEST/test-app/third_party/install/include/mavlink/v2.0/;message_definitions/v1.0/common.xml'

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HEXGCS.dir/HEXmain.cpp.o -o HEXGCS  -Wl,-rpath,/home/blessing/MAVSDKTEST/test-app/src/mavsdk ../src/mavsdk/libmavsdk.so.1.4.0 

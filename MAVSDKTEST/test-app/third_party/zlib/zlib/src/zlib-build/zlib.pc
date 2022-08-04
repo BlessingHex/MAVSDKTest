@@ -1,0 +1,13 @@
+prefix=/home/blessing/MAVSDKTEST/test-app/third_party/install
+exec_prefix=/home/blessing/MAVSDKTEST/test-app/third_party/install
+libdir=/home/blessing/MAVSDKTEST/test-app/third_party/install/lib
+sharedlibdir=/home/blessing/MAVSDKTEST/test-app/third_party/install/lib
+includedir=/home/blessing/MAVSDKTEST/test-app/third_party/install/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

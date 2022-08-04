@@ -1,0 +1,13 @@
+# Target labels
+ tinyxml2
+# Source files and their labels
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/tinyxml2
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/tinyxml2.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/CMakeFiles/tinyxml2-complete.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-build.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-configure.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-download.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-install.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-mkdir.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-patch.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/tinyxml2/tinyxml2/src/tinyxml2-stamp/tinyxml2-update.rule

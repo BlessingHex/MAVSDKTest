@@ -1,0 +1,13 @@
+# Target labels
+ openssl
+# Source files and their labels
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl-complete.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-build.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-configure.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-download.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-install.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-mkdir.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-patch.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-update.rule

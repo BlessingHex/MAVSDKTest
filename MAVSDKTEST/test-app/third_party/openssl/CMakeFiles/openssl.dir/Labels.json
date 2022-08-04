@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl-complete.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-build.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-configure.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-download.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-install.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-mkdir.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-patch.rule"
+		},
+		{
+			"file" : "/home/blessing/MAVSDKTEST/test-app/third_party/openssl/openssl/src/openssl-stamp/openssl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openssl"
+		],
+		"name" : "openssl"
+	}
+}

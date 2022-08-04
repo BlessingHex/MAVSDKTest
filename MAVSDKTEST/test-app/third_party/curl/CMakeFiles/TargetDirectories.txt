@@ -1,0 +1,3 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/curl.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/rebuild_cache.dir

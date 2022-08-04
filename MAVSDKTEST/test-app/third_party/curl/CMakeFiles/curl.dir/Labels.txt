@@ -1,0 +1,13 @@
+# Target labels
+ curl
+# Source files and their labels
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/curl
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/curl.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/CMakeFiles/curl-complete.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-build.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-configure.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-download.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-install.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-mkdir.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-patch.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/curl/curl/src/curl-stamp/curl-update.rule

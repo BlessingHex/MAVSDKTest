@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+ffd9ae5d4c8464fd90a8bc00dbff4441 CMakeFiles/mavlink
+27652884673d462f0b61f4333f3978bc CMakeFiles/mavlink-complete
+acf6e8bfb93c1f7e6d95f33f7172c6b5 mavlink/src/mavlink-stamp/mavlink-build
+c3ae1f3b3e35512b9ba9332ca154b522 mavlink/src/mavlink-stamp/mavlink-configure
+825d3ec487e590c198b0c54438bba56a mavlink/src/mavlink-stamp/mavlink-download
+73ec27a77ba5695ee97ebfd00b894195 mavlink/src/mavlink-stamp/mavlink-install
+14b0061adb2ca463ec5079402c0b1ddf mavlink/src/mavlink-stamp/mavlink-mkdir
+16b8a639621c7191fdf2cea1632a436d mavlink/src/mavlink-stamp/mavlink-patch
+6ddf258fb52704ae2741706f992033f5 mavlink/src/mavlink-stamp/mavlink-update

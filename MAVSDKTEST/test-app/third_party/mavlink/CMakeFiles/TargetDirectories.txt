@@ -1,0 +1,3 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/mavlink.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/rebuild_cache.dir

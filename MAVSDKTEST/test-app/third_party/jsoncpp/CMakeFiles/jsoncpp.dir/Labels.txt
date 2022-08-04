@@ -1,0 +1,13 @@
+# Target labels
+ jsoncpp
+# Source files and their labels
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/CMakeFiles/jsoncpp
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/CMakeFiles/jsoncpp.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/CMakeFiles/jsoncpp-complete.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-build.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-configure.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-download.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-install.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-mkdir.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-patch.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/jsoncpp/jsoncpp/src/jsoncpp-stamp/jsoncpp-update.rule

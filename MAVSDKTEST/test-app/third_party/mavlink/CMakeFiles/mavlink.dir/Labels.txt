@@ -1,0 +1,13 @@
+# Target labels
+ mavlink
+# Source files and their labels
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/mavlink
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/mavlink.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/CMakeFiles/mavlink-complete.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-build.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-configure.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-download.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-install.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-mkdir.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-patch.rule
+/home/blessing/MAVSDKTEST/test-app/third_party/mavlink/mavlink/src/mavlink-stamp/mavlink-update.rule

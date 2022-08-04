@@ -1,0 +1,5 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/install/lib/libz.a
+/home/blessing/MAVSDKTEST/test-app/third_party/install/include/zconf.h
+/home/blessing/MAVSDKTEST/test-app/third_party/install/include/zlib.h
+/home/blessing/MAVSDKTEST/test-app/third_party/install/share/man/man3/zlib.3
+/home/blessing/MAVSDKTEST/test-app/third_party/install/share/pkgconfig/zlib.pc

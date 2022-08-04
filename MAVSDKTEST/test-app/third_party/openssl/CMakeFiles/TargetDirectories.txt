@@ -1,0 +1,3 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/openssl.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/openssl/CMakeFiles/rebuild_cache.dir

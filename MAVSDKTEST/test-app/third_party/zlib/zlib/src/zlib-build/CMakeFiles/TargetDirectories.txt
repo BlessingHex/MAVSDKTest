@@ -1,0 +1,12 @@
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/zlib.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/example.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/minigzip.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/example64.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/minigzip64.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/test.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/edit_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/rebuild_cache.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/list_install_components.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/install.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/install/local.dir
+/home/blessing/MAVSDKTEST/test-app/third_party/zlib/zlib/src/zlib-build/CMakeFiles/install/strip.dir
